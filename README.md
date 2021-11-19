@@ -4,8 +4,8 @@
 
 <p align="center">
 
-- Hy Im Farz
-- I am 19 years old
+- Hy Im Fjr
+- I am 16 years old
 - I live in Indonesian
 - Thank you and follow me
 
@@ -14,8 +14,8 @@
 
 ### Connect with me 
 <p align="center">
-  <a href="https://instagram.com/faaaarr__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285692949920"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
+  <a href="https://instagram.com/k0tak.kosong"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6289692509996"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
 
   
 ------
